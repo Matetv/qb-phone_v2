@@ -1,9 +1,9 @@
 
 # qb-phone für SaltyChat! 
-Ihr benötigt für dieses qb-phone #SaltyChat! Leider funktioniert dadurch die resource "qb-radio" nicht mehr! Ggf. werde ich dies später einmal veröffentlichen sobald ich es hinbekommen habe! Sollte jemand dies schon haben, so kann er gerne mal bescheid geben! 
+Ihr benötigt für dieses qb-phone #SaltyChat https://github.com/v10networkscom/saltychat-fivem ! Leider funktioniert dadurch die resource "qb-radio" nicht mehr! Ggf. werde ich dies später einmal veröffentlichen sobald ich es hinbekommen habe! Sollte jemand dies schon haben, so kann er gerne mal bescheid geben! 
 
 # qb-phone for SaltyChat!
-You need #SaltyChat for this qb-phone! Unfortunately, this means that the resource "qb-radio" no longer works! If necessary, I'll publish this later as soon as I've got it right! If someone already has this, he is welcome to let us know!
+You need #SaltyChat https://github.com/v10networkscom/saltychat-fivem for this qb-phone! Unfortunately, this means that the resource "qb-radio" no longer works! If necessary, I'll publish this later as soon as I've got it right! If someone already has this, he is welcome to let us know!
 
 ## 🌴Paradise Island V🌴
 # Homepage - 
