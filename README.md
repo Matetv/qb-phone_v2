@@ -7,7 +7,7 @@ https://discord.gg/562TDZb8ef
 # Donaten - 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T06B7RG)
 
-# FRIENDZ-CLUB
+## FRIENDZ-CLUB
 # Homepage - 
 https://friendz-club.de/
 # Donaten - 
