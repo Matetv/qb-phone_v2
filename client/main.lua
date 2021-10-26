@@ -1184,11 +1184,8 @@ end
 
 CancelCall = function()
     TriggerServerEvent('qb-phone:server:CancelCall', PhoneData.CallData)
-    if PhoneData.CallData.CallType == "ongoing" then
-        if Config.Tokovoip then
-            exports['saltychat']:EndCall(Play.PlayerData.source, Ply.PlayerData.source)
-
-        end
+    if PhoneData.CallData.CallType == "ongoing" then   
+	exports['saltychat']:EndCall(Play.PlayerData.source, Ply.PlayerData.source)
     end
     PhoneData.CallData.CallType = nil
     PhoneData.CallData.InCall = false
