@@ -1,5 +1,5 @@
 
-#qb-phone für SaltyChat! 
+# qb-phone für SaltyChat! 
 Ihr benötigt für dieses qb-phone #SaltyChat! Leider funktioniert dadurch die resource "qb-radio" nicht mehr! Ggf. werde ich dies später einmal veröffentlichen sobald ich es hinbekommen habe! Sollte jemand dies schon haben, so kann er gerne mal bescheid geben! 
 
 # qb-phone for SaltyChat!
