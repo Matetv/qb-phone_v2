@@ -1184,8 +1184,8 @@ end
 
 CancelCall = function()
     TriggerServerEvent('qb-phone:server:CancelCall', PhoneData.CallData)
-    if PhoneData.CallData.CallType == "ongoing" then   
-	exports['saltychat']:EndCall(Play.PlayerData.source, Ply.PlayerData.source)
+    if PhoneData.CallData.CallType == "ongoing" then
+            exports['saltychat']:EndCall(Play.PlayerData.source, Ply.PlayerData.source)
     end
     PhoneData.CallData.CallType = nil
     PhoneData.CallData.InCall = false
@@ -1243,9 +1243,7 @@ AddEventHandler('qb-phone:client:CancelCall', function()
         SendNUIMessage({
             action = "CancelOngoingCall"
         })
-        if Config.Tokovoip then
             exports['saltychat']:EndCall(Play.PlayerData.source, Ply.PlayerData.source)
-        end
 
     end
     PhoneData.CallData.CallType = nil
@@ -1475,10 +1473,10 @@ AddEventHandler('qb-phone:client:AnswerCall', function()
                 Citizen.Wait(1000)
             end
         end)
-if Config.Tokovoip then
+
     exports['saltychat']:EstablishCall(Play.PlayerData.source, Ply.PlayerData.source)
     exports['saltychat']:EstablishCall(Ply.PlayerData.source, Play.PlayerData.source)
-    end
+
     else
         PhoneData.CallData.InCall = false
         PhoneData.CallData.CallType = nil
