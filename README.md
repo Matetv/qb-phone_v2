@@ -1,12 +1,17 @@
 #qb-phone für SaltyChat!
 ## 🌴Paradise Island V🌴
-# Homepage - https://paradise-islandv.de/
-# Discord - https://discord.gg/562TDZb8ef
-# Donaten - [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T06B7RG)
+# Homepage - 
+https://paradise-islandv.de/
+# Discord - 
+https://discord.gg/562TDZb8ef
+# Donaten - 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T06B7RG)
 
 # FRIENDZ-CLUB
-# Homepage - https://friendz-club.de/
-# Donaten - https://www.buymeacoffee.com/matetvgame
+# Homepage - 
+https://friendz-club.de/
+# Donaten - 
+https://www.buymeacoffee.com/matetvgame
 
 
 # qb-phone
