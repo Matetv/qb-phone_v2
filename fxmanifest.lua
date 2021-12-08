@@ -8,7 +8,6 @@ ui_page 'html/index.html'
 
 shared_scripts {
     'config.lua',
-	'@qb-core/import.lua',
     '@qb-apartments/config.lua',
     '@qb-garages/config.lua',
 }
@@ -33,11 +32,6 @@ files {
 }
 exports {
     'InPhone',
-	 'SetPlayerAlive',
-    'EstablishCall',
-     'EndCall',
- 'SetPlayerRadioSpeaker',
- 'SetPlayerRadioChannel',
- 'RemovePlayerRadioChannel',
- 'SetRadioTowers',
+    'EstablishCall'
 }
+lua54 'yes'
